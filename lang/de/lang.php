@@ -3,13 +3,14 @@
 /**
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  *
+ * @author Andreas Gohr <andi@splitbrain.org>
  * @author Gunnar Lindenblatt <gunnar.lindenblatt@gmail.com>
  * @author Christoph Ziehr <info@einsatzleiterwiki.de>
  * @author Alex Timmermann <alex@modprobe.io>
  * @author Patrick Kastner <patrick.kastner@gmail.com>
  * @author Padhie <develop@padhie.de>
  */
-$lang['menu']                  = 'Wiki aktualisieren';
+$lang['menu']                  = 'it\'s a test';
 $lang['vs_php']                = 'Neue DokuWiki-Versionen benötigen mindestens PHP-Version %s. Ihre Version ist %d. Bitte aktualisieren Sie PHP bevor Sie DokuWiki aktualisieren.';
 $lang['vs_tgzno']              = 'Die neuste Version von DokuWiki konnte nicht ermittelt werden.';
 $lang['vs_tgz']                = 'DokuWiki <b>%s</b> steht zum Download bereit.';
