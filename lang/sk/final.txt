@@ -1,0 +1,9 @@
+Vaša wiki bola aktualizovaná.
+
+Ak by ste narazili na akékoľvek problémy, uistite sa, že všetky vaše pluginy sú aktuálne a kompatibilné s novou verziou. Nápovedu môžete nájsť na [[https://forum.dokuwiki.org/|používateľskom fóre]].
+
+
+Ak sa vám DokuWiki a tento plugin páčia, zvážte prosím [[doku>donate|príspevok]] na podporu vývoja tohto a ďalších pluginov. Pozrite si tiež naše rôzne [[doku>social|prezentácie na sociálnych sieťach]], aby ste mali prehľad o novinkách vo vývoji.
+
+
+A teraz si užite [[:|svoju novú DokuWiki]]! :-)
