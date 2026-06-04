@@ -1,0 +1,7 @@
+Tento plugin automaticky aktualizuje vašu wiki na najnovšiu dostupnú verziu DokuWiki. Pred pokračovaním by ste si mali prečítať [[doku>changes|zoznam zmien]] a skontrolovať, či nie sú potrebné nejaké ďalšie kroky pred aktualizáciou alebo po nej.
+
+Aby bola automatická aktualizácia možná, proces PHP potrebuje oprávnenia na zápis pre súbory DokuWiki. Plugin pred spustením procesu aktualizácie skontroluje potrebné oprávnenia súborov.
+
+Tento plugin neaktualizuje žiadne nainštalované pluginy ani šablóny.
+
+Pred pokračovaním vám odporúčame vytvoriť zálohu vašej wiki.
