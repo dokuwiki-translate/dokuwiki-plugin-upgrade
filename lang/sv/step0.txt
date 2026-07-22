@@ -2,6 +2,6 @@ Detta plugin kommer automatiskt att uppgradera din wiki till senaste tillgängli
 
 För att tillåta automatisk uppgradering kräver PHP-processen skrivrättigheter till DokuWiki-filerna. Pluginet kommer att kontrollera nödvändiga filrättigheter innan uppgraderingsprocessen inleds.
 
-Detta plugin kommer inte att uppgradera något installerat plugin eller templat.
+Detta plugin uppgraderar endast DokuWiki-kärnan och kommer inte att uppgradera något installerat plugin eller templat. Inkompatibilitet med tredjepartstillägg är den vanligaste orsaken till problem efter en uppgradering. Vi rekommenderar att du **inaktiverar alla icke nödvändiga tredjepartsplugin** innan du uppgraderar.
 
 Vi rekommenderar att du skapar en backup av din wikin innan du fortsätter.

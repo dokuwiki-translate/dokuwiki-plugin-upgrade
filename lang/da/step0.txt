@@ -2,6 +2,6 @@ Dette udvidelse vil automatisk opgradere din wiki til nyeste tilgængelige DokuW
 
 For at opgradere automatisk, skal PHP-processen have skriverettigheder til DokuWiki filerne. Plugin'et vil tjekke for nødvendige rettigheder, før opgraderingsprocessen startes.
 
-Dette plugin vil ikke opgradere installerede udvidelser eller temaer.
+Dette plugin opgraderer kun DokuWiki-kernen og vil ikke opgradere installerede udvidelser eller temaer. Inkompatibilitet med tredjepartsudvidelser er den hyppigste årsag til problemer efter en opgradering. Vi anbefaler, at du **deaktiverer alle ikke-essentielle tredjepartsudvidelser**, før du opgraderer.
 
 Vi anbefaler at du opretter en backup af din wiki, før du fortsætter.

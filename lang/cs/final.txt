@@ -1,6 +1,6 @@
 Vaše wiki byla aktualizována.
 
-Pokud narazíte na nějaké problémy, zkontrolujte, zda jsou všechny vaše pluginy aktuální a kompatibilní s novou verzí. V [[https://forum.dokuwiki.org/|uživatelském fóru]] můžete najít cenné rady.
+Nyní aktualizujte zakázané pluginy a šablony a poté je jeden po druhém znovu povolte. Pokud narazíte na nějaké problémy, v [[https://forum.dokuwiki.org/|uživatelském fóru]] můžete najít cenné rady.
 
 
 Pokud máte rádi DokuWiki nebo tento plugin, zvažte prosím [[doku>donate|darování]] na podporu vývoje tohoto a dalších pluginů. Sledujte také naše [[doku>sociální|sociální sítě]].

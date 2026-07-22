@@ -2,6 +2,6 @@ Denne programutvidelsen vil automatisk oppgradere din wiki til den nyeste stabil
 
 Denne automatisk oppgraderingen krever at PHP-prosessen har skrivetillatelse for DokuWiki-filer. Programutvidelsen vil selv sjekke om de nødvendige filtillatelsene er på plass før oppgraderingen starter.
 
-Programutvidelsen vil ikke oppgradere installerte utvidelser eller maler.
+Programutvidelsen oppgraderer kun DokuWiki-kjernen og vil ikke oppgradere installerte utvidelser eller maler. Inkompatibilitet med tredjepartsutvidelser er den vanligste årsaken til problemer etter en oppgradering. Vi anbefaler at du **deaktiverer alle ikke-essensielle tredjepartsutvidelser** før du oppgraderer.
 
 Vi anbefaler at du tar en sikkerhetskopi av wikien før du fortsetter.

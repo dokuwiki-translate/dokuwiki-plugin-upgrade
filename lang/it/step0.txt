@@ -2,6 +2,6 @@ Questo plugin aggiornerà automaticamente la wiki alla versione più recente dis
 
 Per permettere l'aggiornamento automatico, il processo PHP necessita di impostare i permessi sui file DokuWiki. Il plugin controllerà i permessi necessari prima di avviare il processo di aggiornamento.
 
-Questo procedimento non aggiornerà nessun plugin installato e nessun template.
+Questo plugin aggiorna solo il core di DokuWiki e non aggiornerà nessun plugin o template installato. Le incompatibilità con le estensioni di terze parti sono la causa più comune di problemi dopo un aggiornamento. Si consiglia di **disattivare tutti i plugin di terze parti non essenziali** prima di eseguire l'aggiornamento.
 
 Raccomandiamo di creare un backup della vostra wiki prima di continuare.

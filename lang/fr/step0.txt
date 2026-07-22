@@ -2,6 +2,6 @@ Ce greffon met votre DokuWiki à jour automatiquement, en installant la dernièr
 
 Pour rendre la mise à jour automatique possible, PHP doit avoir les droits en écriture sur les fichiers de DokuWiki. Ce greffon contrôle les permissions avant le début du processus de mise à jour.
 
-Ce greffon ne met pas à jour les autres thèmes et greffons.
+Ce greffon met à jour uniquement le cœur de DokuWiki et ne met pas à jour les thèmes et greffons installés. Les incompatibilités avec les extensions tierces sont la source de problèmes la plus courante après une mise à jour. Il est recommandé de **désactiver tous les greffons tiers non essentiels** avant la mise à jour.
 
 Nous vous recommandons d'effectuer une sauvegarde de votre wiki avant de poursuivre !

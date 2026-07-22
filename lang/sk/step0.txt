@@ -2,6 +2,6 @@ Tento plugin automaticky aktualizuje vašu wiki na najnovšiu dostupnú verziu D
 
 Aby bola automatická aktualizácia možná, proces PHP potrebuje oprávnenia na zápis pre súbory DokuWiki. Plugin pred spustením procesu aktualizácie skontroluje potrebné oprávnenia súborov.
 
-Tento plugin neaktualizuje žiadne nainštalované pluginy ani šablóny.
+Tento plugin aktualizuje iba jadro DokuWiki a neaktualizuje žiadne nainštalované pluginy ani šablóny. Nekompatibilita s pluginmi tretích strán je najčastejšou príčinou problémov po aktualizácii. Odporúčame **pred aktualizáciou zakázať všetky nepotrebné pluginy tretích strán**.
 
 Pred pokračovaním vám odporúčame vytvoriť zálohu vašej wiki.

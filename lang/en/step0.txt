@@ -2,6 +2,6 @@ This plugin will automatically upgrade your wiki to the newest available DokuWik
 
 To allow automatic upgrading, the PHP process requires write permissions for Dokuwiki files. The plugin will check for the necessary file permissions before starting the upgrade process.
 
-This plugin will not upgrade any installed plugins or templates.
+This plugin upgrades the DokuWiki core only and will not upgrade any installed plugins or templates. Incompatibilities with third-party extensions are the most common source of problems after an upgrade. It is recommended to **disable all non-essential 3rd party plugins** before upgrading.
 
 We recommend that you create a backup of your wiki before continuing.

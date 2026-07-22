@@ -1,6 +1,6 @@
 Votre wiki est maintenant à jour.
 
-Au cas ou vous rencontreriez un quelconque problème, assurez vous que tous les greffons sont à jour et qu'ils sont compatibles avec la nouvelle version. Le  [[https://forum.dokuwiki.org/t/french|forum des utilisateurs]] pourrait dans ce cas être une source d'information. (disponible également en [[https://forum.dokuwiki.org/|anglais]]).
+Mettez maintenant à jour vos greffons et thèmes désactivés avant de les réactiver un par un. En cas de problème, le [[https://forum.dokuwiki.org/t/french|forum des utilisateurs]] pourrait être une source d'information (disponible également en [[https://forum.dokuwiki.org/|anglais]]).
 
 Si vous appréciez DokuWiki et ce greffon, n'hésitez pas à [[doku>fr:donate|faire un don]] pour soutenir son développement ainsi que celui d'autres greffons. Consultez nos diverses présences sur les [[doku>fr:social|réseaux sociaux]] pour vous tenir au courant des nouveaux développements.
 

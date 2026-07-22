@@ -2,6 +2,6 @@ Tento zásuvný modul automaticky aktualizuje vaši wiki na nejnovější dostup
 
 Pro povolení automatické aktualizace je třeba zajistit PHP procesu zapisovací práva do souborů DokuWiki. Zásuvný modul ověří dostupnost potřebných oprávnění před spuštěním aktualizace.
 
-Tento modul nebude aktualizovat nainstalované šablony ani ostatní zásuvné moduly.
+Tento modul aktualizuje pouze jádro DokuWiki a nebude aktualizovat nainstalované šablony ani ostatní zásuvné moduly. Nekompatibilita se zásuvnými moduly třetích stran je nejčastější příčinou problémů po aktualizaci. Doporučujeme **před aktualizací zakázat všechny nepotřebné zásuvné moduly třetích stran**.
 
 Před spuštěním doporučujeme, abyste si vytvořili zálohu dat vaší wiki.

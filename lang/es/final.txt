@@ -1,6 +1,6 @@
 Tu Wiki ha sido actualizada.
 
-Si encuentras algún problema, asegúrate de que todos tus complementos estén actualizados y sean compatibles con la nueva versión. El [[https://forum.dokuwiki.org/|foro de usuarios]] podría tener algunas sugerencias útiles para ti.
+Ahora actualiza tus complementos y plantillas desactivados antes de volver a activarlos uno por uno. Si encuentras algún problema, el [[https://forum.dokuwiki.org/|foro de usuarios]] podría tener algunas sugerencias útiles para ti.
 
 
 Si disfrutas de DokuWiki y de este complemento, considera hacer una [[doku>es:donate|donación]] para apoyar el desarrollo de este y otros complementos. También puedes visitar nuestras [[doku>es:social|redes sociales]] para mantenerte informado sobre nuevos desarrollos.

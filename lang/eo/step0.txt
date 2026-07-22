@@ -2,6 +2,6 @@ Tiu kromaĵo aŭtomate ĝisdatigos vian vikion al la plej freŝe havebla DokuWik
 
 Por permesi aŭtomatan ĝisdatigon, la PHP-procezo bezonas skribpermeson por Dokuwiki-dosieroj. La kromaĵo kontrolos la necesajn dosierpermesojn antaŭ la komenco de la ĝisdatigo.
 
-Tiu kromaĵo **ne ĝisdatigos** instalitajn kromaĵojn aŭ ŝablonojn.
+Tiu kromaĵo ĝisdatigas nur la kernon de DokuWiki kaj **ne ĝisdatigos** instalitajn kromaĵojn aŭ ŝablonojn. Malkongruoj kun eksteraj kromaĵoj estas la plej ofta kaŭzo de problemoj post ĝisdatigo. Estas rekomendite **malŝalti ĉiujn neneprajn eksterajn kromaĵojn** antaŭ la ĝisdatigo.
 
 Ni rekomendas, ke vi faru sekurkopion de via vikio antaŭ ol daŭrigi.

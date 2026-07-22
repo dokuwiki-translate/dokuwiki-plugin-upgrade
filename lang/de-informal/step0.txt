@@ -2,6 +2,6 @@ Dieses Plugin führt ein Upgrade deines DokuWiki auf die aktuellste verfügbare 
 
 Um ein automatisches Upgrade durchführen zu können, benötigt PHP Schreibberechtigungen auf die Dateien deines DokuWiki. Das Plugin überprüft diese Berechtigungen bevor das Upgrade ausgeführt wird.
 
-Diese Plugin führt kein Upgrade von installierten Plugins oder Templates durch.
+Dieses Plugin aktualisiert nur den DokuWiki-Kern und führt kein Upgrade von installierten Plugins oder Templates durch. Inkompatibilitäten mit Erweiterungen von Drittanbietern sind die häufigste Ursache für Probleme nach einem Upgrade. Es wird empfohlen, **alle nicht benötigten Plugins von Drittanbietern zu deaktivieren**, bevor du das Upgrade durchführst.
 
 Es wird empfohlen, ein Backup deines Wikis zu erstellen, bevor du mit dem Upgrade-Prozess beginnst.

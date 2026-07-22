@@ -2,6 +2,6 @@ Bu eklenti wikinizi otomatik olarak mecut olan en yeni DokuWiki sürümüne yük
 
 Otomatik yükseltmenin yapılabilmesi için PHP sürecinin DokuWiki dosyalarına yazma hakkı olmalıdır. Eklenti, yükseltme sürecine başlamadan önce gerekli dosya izinlerini kontrol edecektir.
 
-Bu eklenti, yüklü olan şablon ve eklentileri yükseltmeyecektir.
+Bu eklenti yalnızca DokuWiki çekirdeğini yükseltir ve yüklü olan şablon veya eklentileri yükseltmez. Üçüncü taraf eklentilerle yaşanan uyumsuzluklar, yükseltme sonrasında en sık karşılaşılan sorun kaynağıdır. Yükseltmeden önce **gerekli olmayan tüm üçüncü taraf eklentilerini devre dışı bırakmanız** önerilir.
 
 Devam etmeden önce wikinizin bir yedeğini oluşturmanızı öneririz.
